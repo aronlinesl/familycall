@@ -119,7 +119,7 @@ Family Callbook uses WebRTC (Web Real-Time Communication) for peer-to-peer video
 #### Option 1: Using Precompiled Binaries (Recommended)
 
 1. **Download Precompiled Binary**
-   - Download the appropriate binary for your platform from the [Releases](https://github.com/yourusername/familycall/releases) page
+   - Download the appropriate binary for your platform from the [Releases](https://github.com/ZonD80/familycall/releases) page
    - For Linux: `familycall-server-linux-amd64` or `familycall-server-linux-arm64`
    - For macOS: `familycall-server-darwin-amd64` or `familycall-server-darwin-arm64`
 
@@ -153,7 +153,7 @@ Family Callbook uses WebRTC (Web Real-Time Communication) for peer-to-peer video
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/familycall.git
+   git clone https://github.com/ZonD80/familycall.git
    cd familycall
    ```
 
@@ -233,12 +233,9 @@ Family Callbook uses WebRTC (Web Real-Time Communication) for peer-to-peer video
 
 ### For Family Members
 
-1. **Receive Invite**: Get an invite link from the family organizer
-2. **Open Link**: Click the invite link in your browser
-3. **Register**: Enter the name provided by the organizer
-4. **Install App**: Install as PWA for better experience
-5. **Enable Notifications**: Allow push notifications to receive calls
-6. **Start Calling**: Tap contacts to initiate audio or video calls
+
+1. **Open Link**: Click the invite link in your browser
+2. **Start Calling**: Tap contacts to initiate audio or video calls
 
 ## Backup & Restore
 
@@ -314,7 +311,7 @@ The backup ZIP archive includes:
 
 ```bash
 cd server
-go build -o familycall-server
+./build.sh
 ```
 
 ### Running Tests
